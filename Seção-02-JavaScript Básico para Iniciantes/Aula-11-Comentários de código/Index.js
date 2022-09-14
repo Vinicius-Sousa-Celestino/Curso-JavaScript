@@ -1,0 +1,3 @@
+//Comentário
+/* Comentário
+    2 */
