@@ -36,7 +36,29 @@
 7. Não utilize var, utilize const.
 8. Devemos sempre inicializar uma constante.
 9. typeof, descobrir o tipo da variável.
-
-
-
-
+### Aula - 16. Exercícios const e let
+1. Calculando IMC.
+2. Calculando ano de nascimento aproximado.
+3. Utilizando classe e função para pegar o ano atual.
+4. template strings.
+### Aula - 18. Let vs Var - Poucas diferenças
+1. Com let não se pode declarar e redeclarar, ja com var se pode.
+1. use Const... mas entre let e var, use let.
+2. Não crie variáveis sem especificar.
+### Aula - 19. Tipos de dados primitivos 
+1. String.
+2. Number.
+3. Undefined.
+4. boolean.
+5. Null.
+### Aula - 20. operadores aritiméticos
+1. NaN = not a number.
+2. parseInt, parseFloat.
+### Aula - 21. alert, confirm e prompt (Navegador)
+1. Quando uma função está dentro de um objeto chamamos ele de método, se tiver fora, chamamos de função.
+### Aula - 22. Exercícios solução
+1. Resolvido.
+### Aula - 23. Exercício com variáveis
+1. Salvar o valor da variável em outra.
+2. Primeira solução mais antiga, e outra mais moderna.
+3. Resolvido.
