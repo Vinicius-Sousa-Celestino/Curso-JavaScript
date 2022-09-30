@@ -62,3 +62,11 @@
 1. Salvar o valor da variável em outra.
 2. Primeira solução mais antiga, e outra mais moderna.
 3. Resolvido.
+### 24. Mais sobre strings
+1. \ serve como caractere de espaço.
+2. Strings são indexadas (0123, igual a um array).
+3. Maneiras de concatenar strings.
+4. Índices.
+5. Expressões regular.
+6. Fatiando Strings.
+7. https://www.w3schools.com/js/ | https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
