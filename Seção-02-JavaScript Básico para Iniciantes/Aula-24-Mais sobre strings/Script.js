@@ -1,4 +1,4 @@
-let umaString = "Vinícius";
+let umaString = "Vinícius Sousa";
 
 console.log(umaString[2]);
 
@@ -21,7 +21,3 @@ console.log(umaString.slice(-3, umaString.length -1));
 console.log(umaString.substring(umaString.length -5, umaString.length -1));
 
 console.log(umaString.split('i'));
-
-console.log();
-
-
